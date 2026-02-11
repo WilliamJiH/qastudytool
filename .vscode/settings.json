@@ -1,0 +1,4 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.import.gradle.java.home": "/usr/local/Cellar/openjdk@17/17.0.18/libexec/openjdk.jdk/Contents/Home"
+}
